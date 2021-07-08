@@ -8,3 +8,9 @@ links and images
 inline and internal
 ## Week 4: CSS
 external and rule sets
+
+## Week 5: CSS
+classes and ids
+
+## Week 7: Javascript
+holy moly whats going on
